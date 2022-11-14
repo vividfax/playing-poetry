@@ -4,7 +4,7 @@ A collaboration between [Rianna Suen](https://vividfax.itch.io/) and [Mariana Ma
 
 ## Digital literacy
 
-### Collection of cool websites
+### Website hubs and social networks
 
 #### Arts
 

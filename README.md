@@ -33,8 +33,6 @@ A collaboration between [Rianna Suen](https://vividfax.itch.io/) and [Mariana Ma
 
 #### Tools
 
-- [Cheap Bots, Done Quick! - Make a generative bot that runs on Twitter](https://cheapbotsdonequick.com/)
-- [Cheap Bots, Toot Sweet! - Make a generative bot that runs on Mastodon](https://cheapbotstootsweet.com/)
 - [Run Your Own Social - How to run a small social network site for your friends](https://runyourown.social/)
 - [tinytools.directory - Open source, experimental, and tiny tools roundup](https://tinytools.directory/)
 

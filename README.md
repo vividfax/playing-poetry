@@ -16,6 +16,7 @@ A collaboration between [Rianna Suen](https://vividfax.itch.io/) and [Mariana Ma
 
 #### Books
 
+- [Goodreads - Database of books, annotations, quotes, and reviews](https://www.goodreads.com/)
 - [Internet Archive - Non-profit library of millions of free books, movies, software, music, websites, and more](https://archive.org/details/texts)
 
 #### Coding
@@ -30,6 +31,10 @@ A collaboration between [Rianna Suen](https://vividfax.itch.io/) and [Mariana Ma
 - [mastodon.gamedev.place - Gamedev social network](https://mastodon.gamedev.place/public)
 - [Meditations - Launcher that, every day, loads a small game and an accompanying text as a meditation, distraction, lesson, or inspiration](http://www.meditations.games/)
 - [The Useless Web - A portal to the weird of the internet](https://theuselessweb.com/)
+
+#### Science
+
+- [Sci-Hub - Pirate website that provides mass and public access to tens of millions of research papers](https://theopensci.com/)
 
 #### Tools
 

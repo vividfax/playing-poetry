@@ -9,7 +9,7 @@ A collaboration between [Rianna Suen](https://vividfax.itch.io/) and [Mariana Ma
 Contents:
 
 1. [Arts](#Arts)
-1. [Books](#Books)
+1. [Literature](#Literature)
 1. [Coding](#Coding)
 1. [Games](#Games)
 1. [Science](#Science)
@@ -21,14 +21,14 @@ Contents:
 
 - [artisan.chat - Social network for creators, crafters, and artists](https://artisan.chat/public)
 - [mastodon.art - Friendly creative social network](https://mastodon.art/public)
-- [oulipo.social - Social network where you can't use the letter e](https://oulipo.social/public)
 - [Ravelry - Community site, organizational tool, and yarn & pattern database for knitters and crocheters](https://www.ravelry.com/)
 - [Stitchcord - Knitting discord](https://discord.gg/PFXSAGM)
 
-#### <a name="Books"></a> Books
+#### <a name="Literature"></a> Literature
 
 - [Goodreads - Database of books, annotations, quotes, and reviews](https://www.goodreads.com/)
 - [Internet Archive - Non-profit library of millions of free books, movies, software, music, websites, and more](https://archive.org/details/texts)
+- [oulipo.social - Social network where you can't use the letter e](https://oulipo.social/public)
 
 #### <a name="Coding"></a> Coding
 

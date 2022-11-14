@@ -13,6 +13,10 @@ A collaboration between [Rianna Suen](https://vividfax.itch.io/) and [Mariana Ma
 - [tinytools.directory - Open source, experimental, and tiny tools roundup](https://tinytools.directory/)
 - [Wayback Machine - Explore more than 760 billion web pages saved over time](https://web.archive.org/)
 
+#### Games
+
+- [itch.io - Find and share indie games online for free](https://itch.io/)
+
 #### Mastodon instances
 
 - [botsin.space - Mastodon instance for bots and bot allies](https://botsin.space/about)
@@ -20,7 +24,11 @@ A collaboration between [Rianna Suen](https://vividfax.itch.io/) and [Mariana Ma
 - [mastodon.gamedev.place - Gamedev Mastodon](https://mastodon.gamedev.place/public)
 - [oulipo.social - Social network where you can't use the letter e](https://oulipo.social/public)
 
-#### Misc
+#### Social networks
+
+- [Ravelry - community site, organizational tool, and yarn & pattern database for knitters and crocheters](https://www.ravelry.com/)
+
+#### Tools
 
 - [Cheap Bots, Done Quick! - Make a generative bot that runs on Twitter](https://cheapbotsdonequick.com/)
 - [Cheap Bots, Toot Sweet! - Make a generative bot that runs on Mastodon](https://cheapbotstootsweet.com/)

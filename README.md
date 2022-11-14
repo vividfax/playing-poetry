@@ -4,7 +4,7 @@ A collaboration between [Rianna Suen](https://vividfax.itch.io/) and [Mariana Ma
 
 ## Digital literacy
 
-### Website hubs and social networks
+### Alternative website hubs and social networks
 
 Contents:
 
@@ -51,6 +51,7 @@ Contents:
 
 #### <a name="Tools"></a> Tools
 
+- [mmm.page - Dead simple, drag & drop websites](https://mmm.page/)
 - [Run Your Own Social - How to run a small social network site for your friends](https://runyourown.social/)
 - [tinytools.directory - Open source, experimental, and tiny tools roundup](https://tinytools.directory/)
 

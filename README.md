@@ -21,6 +21,7 @@ Contents:
 
 - [artisan.chat - Social network for creators, crafters, and artists](https://artisan.chat/public)
 - [mastodon.art - Friendly creative social network](https://mastodon.art/public)
+- [Monoskop - Wiki for arts and studies](https://monoskop.org/Monoskop)
 - [Ravelry - Community site, organizational tool, and yarn & pattern database for knitters and crocheters](https://www.ravelry.com/)
 - [Stitchcord - Knitting discord](https://discord.gg/PFXSAGM)
 
@@ -55,6 +56,7 @@ Contents:
 
 #### <a name="Video"></a> Video
 
+- [default filename tv - Youtube videos that were uploaded from the camera without edits to the filename](https://default-filename-tv.neocities.org/)
 - [Internet Archive - Non-profit library of millions of free books, movies, software, music, websites, and more](https://archive.org/details/movies)
 - [Thought Maybe - Library of films focused on topics challenging modern society](https://thoughtmaybe.com/)
 

@@ -6,36 +6,43 @@ A collaboration between [Rianna Suen](https://vividfax.itch.io/) and [Mariana Ma
 
 ### Collection of cool websites
 
-#### Collection of collections
+#### Arts
 
-- [Internet Archive - Non-profit library of millions of free books, movies, software, music, websites, and more](https://archive.org/)
-- [That Creative Code Page - Illustrated catalog of useful creative coding algorithms & techniques](https://thatcreativecode.page/)
-- [tinytools.directory - Open source, experimental, and tiny tools roundup](https://tinytools.directory/)
-- [The Useless Web - A portal to the weird of the internet](https://theuselessweb.com/)
-- [Wayback Machine - Explore more than 760 billion web pages saved over time](https://web.archive.org/)
-
-#### Discord servers
-
+- [artisan.chat - Social network for creators, crafters, and artists](https://artisan.chat/public)
+- [mastodon.art - Friendly creative social network](https://mastodon.art/public)
+- [oulipo.social - Social network where you can't use the letter e](https://oulipo.social/public)
+- [Ravelry - Community site, organizational tool, and yarn & pattern database for knitters and crocheters](https://www.ravelry.com/)
 - [Stitchcord - Knitting discord](https://discord.gg/PFXSAGM)
+
+#### Books
+
+- [Internet Archive - Non-profit library of millions of free books, movies, software, music, websites, and more]([https://archive.org/](https://archive.org/details/texts))
+
+#### Coding
+
+- [botsin.space - Social network instance for bots and bot allies](https://botsin.space/about)
+- [Botwiki - Interesting and creative online bots](https://botwiki.org/)
+- [That Creative Code Page - Illustrated catalog of useful creative coding algorithms & techniques](https://thatcreativecode.page/)
 
 #### Games
 
 - [itch.io - Find and share indie games online for free](https://itch.io/)
+- [mastodon.gamedev.place - Gamedev social network](https://mastodon.gamedev.place/public)
 - [Meditations - Launcher that, every day, loads a small game and an accompanying text as a meditation, distraction, lesson, or inspiration](http://www.meditations.games/)
-
-#### Mastodon instances
-
-- [botsin.space - Mastodon instance for bots and bot allies](https://botsin.space/about)
-- [mastodon.art - Your friendly creative home on the Fediverse](https://mastodon.art/public)
-- [mastodon.gamedev.place - Gamedev Mastodon](https://mastodon.gamedev.place/public)
-- [oulipo.social - Social network where you can't use the letter e](https://oulipo.social/public)
-
-#### Social networks
-
-- [Ravelry - Community site, organizational tool, and yarn & pattern database for knitters and crocheters](https://www.ravelry.com/)
+- [The Useless Web - A portal to the weird of the internet](https://theuselessweb.com/)
 
 #### Tools
 
 - [Cheap Bots, Done Quick! - Make a generative bot that runs on Twitter](https://cheapbotsdonequick.com/)
 - [Cheap Bots, Toot Sweet! - Make a generative bot that runs on Mastodon](https://cheapbotstootsweet.com/)
 - [Run Your Own Social - How to run a small social network site for your friends](https://runyourown.social/)
+- [tinytools.directory - Open source, experimental, and tiny tools roundup](https://tinytools.directory/)
+
+#### Video
+
+- [Internet Archive - Non-profit library of millions of free books, movies, software, music, websites, and more](https://archive.org/details/movies)
+- [Thought Maybe - Library of films focused on topics challenging modern society](https://thoughtmaybe.com/)
+
+#### Misc
+
+- [Wayback Machine - Explore more than 760 billion web pages saved over time](https://web.archive.org/)

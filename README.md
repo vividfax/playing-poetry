@@ -16,7 +16,7 @@ A collaboration between [Rianna Suen](https://vividfax.itch.io/) and [Mariana Ma
 
 #### Books
 
-- [Internet Archive - Non-profit library of millions of free books, movies, software, music, websites, and more]([https://archive.org/](https://archive.org/details/texts))
+- [Internet Archive - Non-profit library of millions of free books, movies, software, music, websites, and more](https://archive.org/details/texts)
 
 #### Coding
 

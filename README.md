@@ -9,10 +9,10 @@ A collaboration between [Rianna Suen](https://vividfax.itch.io/) and [Mariana Ma
 Contents:
 
 1. [Arts](#Arts)
-2. [Education](#Education)
-3. [Literature](#Literature)
-4. [Coding](#Coding)
-5. [Games](#Games)
+2. [Coding](#Coding)
+3. [Education](#Education)
+4. [Games](#Games)
+5. [Literature](#Literature)
 6. [Tools](#Tools)
 7. [Video](#Video)
 8. [Misc](#Misc)
@@ -25,22 +25,16 @@ Contents:
 - [Ravelry - Community site, organizational tool, and yarn & pattern database for knitters and crocheters](https://www.ravelry.com/)
 - [Stitchcord - Knitting discord](https://discord.gg/PFXSAGM)
 
-#### <a name="Education"></a> Education
-
-- [Explorable Explanations - Hub for learning through play](https://explorabl.es/)
-- [Sci-Hub - Pirate website that provides mass and public access to tens of millions of research papers](https://theopensci.com/)
-
-#### <a name="Literature"></a> Literature
-
-- [Goodreads - Database of books, annotations, quotes, and reviews](https://www.goodreads.com/)
-- [Internet Archive - Non-profit library of millions of free books, movies, software, music, websites, and more](https://archive.org/details/texts)
-- [oulipo.social - Social network where you can't use the letter e](https://oulipo.social/public)
-
 #### <a name="Coding"></a> Coding
 
 - [botsin.space - Social network instance for bots and bot allies](https://botsin.space/about)
 - [Botwiki - Interesting and creative online bots](https://botwiki.org/)
 - [That Creative Code Page - Illustrated catalog of useful creative coding algorithms & techniques](https://thatcreativecode.page/)
+
+#### <a name="Education"></a> Education
+
+- [Explorable Explanations - Hub for learning through play](https://explorabl.es/)
+- [Sci-Hub - Pirate website that provides mass and public access to tens of millions of research papers](https://theopensci.com/)
 
 #### <a name="Games"></a> Games
 
@@ -48,6 +42,12 @@ Contents:
 - [mastodon.gamedev.place - Gamedev social network](https://mastodon.gamedev.place/public)
 - [Meditations - Launcher that, every day, loads a small game and an accompanying text as a meditation, distraction, lesson, or inspiration](http://www.meditations.games/)
 - [The Useless Web - A portal to the weird of the internet](https://theuselessweb.com/)
+
+#### <a name="Literature"></a> Literature
+
+- [Goodreads - Database of books, annotations, quotes, and reviews](https://www.goodreads.com/)
+- [Internet Archive - Non-profit library of millions of free books, movies, software, music, websites, and more](https://archive.org/details/texts)
+- [oulipo.social - Social network where you can't use the letter e](https://oulipo.social/public)
 
 #### <a name="Tools"></a> Tools
 

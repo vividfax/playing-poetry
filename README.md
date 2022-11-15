@@ -19,6 +19,7 @@ Contents:
 
 #### <a name="Arts"></a> Arts
 
+- [Are.na - Platform for connecting ideas and building knowledge](https://www.are.na/)
 - [artisan.chat - Social network for creators, crafters, and artists](https://artisan.chat/public)
 - [mastodon.art - Friendly creative social network](https://mastodon.art/public)
 - [Monoskop - Wiki for arts and studies](https://monoskop.org/Monoskop)

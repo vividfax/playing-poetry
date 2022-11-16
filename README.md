@@ -28,7 +28,7 @@ Contents:
 
 #### <a name="Coding"></a> Coding
 
-- [botsin.space - Social network instance for bots and bot allies](https://botsin.space/about)
+- [botsin.space - Social network instance for bots and bot allies](https://botsin.space/public)
 - [Botwiki - Interesting and creative online bots](https://botwiki.org/)
 - [That Creative Code Page - Illustrated catalog of useful creative coding algorithms & techniques](https://thatcreativecode.page/)
 

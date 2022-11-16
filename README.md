@@ -42,6 +42,7 @@ Contents:
 - [itch.io - Find and share indie games online for free](https://itch.io/)
 - [mastodon.gamedev.place - Gamedev social network](https://mastodon.gamedev.place/public)
 - [Meditations - Launcher that, every day, loads a small game and an accompanying text as a meditation, distraction, lesson, or inspiration](http://www.meditations.games/)
+- [Newgrounds - Animated films and games](https://www.newgrounds.com/games)
 - [The Useless Web - A portal to the weird of the internet](https://theuselessweb.com/)
 
 #### <a name="Literature"></a> Literature
@@ -61,6 +62,8 @@ Contents:
 
 - [default filename tv - Youtube videos that were uploaded from the camera without edits to the filename](https://default-filename-tv.neocities.org/)
 - [Internet Archive - Non-profit library of millions of free books, movies, software, music, websites, and more](https://archive.org/details/movies)
+- [Letterboxd - Social network for film lovers](https://letterboxd.com/)
+- [Newgrounds - Animated films and games](https://www.newgrounds.com/movies)
 - [Thought Maybe - Library of films focused on topics challenging modern society](https://thoughtmaybe.com/)
 
 #### <a name="Misc"></a> Misc
